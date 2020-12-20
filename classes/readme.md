@@ -15,3 +15,6 @@
 ### DS & Algo
 1. [CMU一个教师的PPT分类 很全很好](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/)
 
+### CS231N reading materials
+1. [一些可能是上课用的paper](http://cs231n.stanford.edu/reports/2017/pdfs/105.pdf)
+
