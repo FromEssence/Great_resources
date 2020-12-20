@@ -17,5 +17,5 @@
 
 ### CS231N reading materials
 1. [一些可能是上课用的paper](http://cs231n.stanford.edu/reports/2017/pdfs/105.pdf)
-   [可配合这个博客做个demo](https://www.covertness.me/2019/06/02/keras-recommender/)
+   </br>[可配合这个博客做个图片推荐demo](https://www.covertness.me/2019/06/02/keras-recommender/)
 
