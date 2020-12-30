@@ -15,7 +15,9 @@
 ### DS & Algo
 1. [CMU一个教师的PPT分类 很全很好](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/)
 
-### CS231N reading materials
+### CV
+#### CS231N reading materials
 1. [一些可能是上课用的paper](http://cs231n.stanford.edu/reports/2017/pdfs/105.pdf)
    </br>[可配合这个博客做个图片推荐demo](https://www.covertness.me/2019/06/02/keras-recommender/)
 
+2. [MTH大学Python应用，很好](http://www.math.buffalo.edu/~badzioch/MTH337/PT/PT-image_processing/PT-image_processing.html)
