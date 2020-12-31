@@ -11,7 +11,7 @@
 
 2. [MIT 6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2020/index.html)
 
-3. [Ctf-Wiki](wiki.x10sec.org)
+3. [Ctf-Wiki](https://wiki.x10sec.org)
 
 
 ### DS & Algo
