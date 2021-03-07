@@ -13,6 +13,10 @@
 
 3. [Ctf-Wiki](https://wiki.x10sec.org)
 
+4. 南大软件安全静态分析<br>
+   a. [官网 课件](https://pascal-group.bitbucket.io/teaching.html)<br>
+   b. [b站录播课](https://www.bilibili.com/video/av91858985)
+
 
 ### DS & Algo
 1. [CMU一个教师的PPT分类 很全很好](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/)
