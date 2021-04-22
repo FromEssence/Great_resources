@@ -1,5 +1,13 @@
 ## Good Classes
 
+### OS&Computer Arch
+1. Berkeley CS61c--Great Ideas in Computer Architecture (Machine Structures)
+   <br>课程有很多习题和解答.
+   * [2015春课程视频](https://www.youtube.com/watch?v=9y_sUqHeyy8&list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
+   * [2021课程网站](https://cs61c.org/sp21/)
+   * [2016夏](https://inst.eecs.berkeley.edu/~cs61c/su16/)
+   * 
+
 ### Database
 
 1. [香港中文大学 **Advanced Techniques for High Dimensional Data** ](<https://www.cse.cuhk.edu.hk/~taoyf/course/infs4205/www/index.html>)
