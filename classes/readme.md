@@ -8,7 +8,7 @@
    * [2016夏](https://inst.eecs.berkeley.edu/~cs61c/su16/)
    * 
 2. [南京大学 Computer Architecture and Organization](https://cs.nju.edu.cn/swang/CompArchOrg_13F/)
-3. 
+3. [MIT 6.001 Computation Structures 计算机中的各种数学概念](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)
 ### Database
 
 1. [香港中文大学 **Advanced Techniques for High Dimensional Data** ](<https://www.cse.cuhk.edu.hk/~taoyf/course/infs4205/www/index.html>)
