@@ -11,7 +11,7 @@
 3. [MIT 6.001 Computation Structures 计算机中的各种数学概念](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)
 4. [操作系统 香港理工](http://www4.comp.polyu.edu.hk/~csajaykr/myhome/teaching/eel602/main.htm)
 5. [哥伦比亚大学 操作系统 涉及linux内核实现](http://www.cs.columbia.edu/~junfeng/10sp-w4118/syllabus.html)
-6. [UCSD CSE120_sp17 课程教材就是OSTEP](https://cseweb.ucsd.edu/classes/sp17/cse120-a/index/lecture_index.html)
+6. [UCSD CSE120_sp17 课程教材就是OSTEP 其中的Addition Notes很好，有sem实现逻辑等](https://cseweb.ucsd.edu/classes/sp17/cse120-a/index/lecture_index.html)
 ### Database
 
 1. [香港中文大学 **Advanced Techniques for High Dimensional Data** ](<https://www.cse.cuhk.edu.hk/~taoyf/course/infs4205/www/index.html>)
