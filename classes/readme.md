@@ -33,6 +33,7 @@
 ### DS & Algo
 1. [CMU一个教师的PPT分类 很全很好](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/)
 2. [翁恺老师的C进阶，有思考过程，享受](https://www.icourse163.org/learn/ZJU-200001?tid=1462327456#/learn/announce)
+3. [COMP 271 香港科技大学 03年但很易懂](http://home.cse.ust.hk/faculty/golin/COMP271Sp03/)
 
 ### CV
 #### CS231N reading materials
