@@ -47,3 +47,5 @@
 1. [Origin绘图](https://www.bilibili.com/video/BV1bt411s7jM?p=13)
 2. [Adobe Acrobat Pro操作手册](https://helpx.adobe.com/cn/acrobat/user-guide.html)
 
+### DL
+1. [Deep Generative Models, 2021](https://deepgenerativemodels.github.io)
